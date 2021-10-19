@@ -1,1 +1,0 @@
-<div class="header">Это шапка сайта</div>

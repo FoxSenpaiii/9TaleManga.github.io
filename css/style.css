@@ -107,3 +107,11 @@
   padding: 50px 20000px;
   background-color: black;
 }
+.line {
+    border-bottom: 5px solid black;
+    background-colour: black:
+}
+.line2 {
+    border-bottom: 5px solid white;
+    background-colour: black:
+}

@@ -7,6 +7,9 @@
         <link rel="stylesheet" href='./css/style.css'/>
         <script></script>
         <title>Первый сайт</title>
+        <style>
+          
+          </style>
     </head>
     <body>
        <?php
@@ -15,7 +18,12 @@
        <div class="topnav">
   <a class="active" href="#home">Главная</a>
   <a href="#comics">Комиксы</a>
-  <a href="#manga">Манга и Ранобэ</a>
+  <a href="manga.php"><php?  
+  $target ='manga.php';
+  $link = 'index.php';
+  link($target, $link);
+  ?>
+  Манга и Ранобэ</a>
   <a href="#manhva">Манхва</a>
   <a href="#about">О Нас</a>
 </div>
@@ -101,7 +109,7 @@
         </div>
         <div class="col">
           <div class="card shadow-sm">
-          <img src="https://static2.mangapoisk.ru/pages/3575/209461/Lt1iSkFYt5jtYIjpPqhEaxmwCT9qOn12ze7ov0NY.jpg" style="width:100%">
+          <img src="https://images-cdn.9gag.com/photo/a0Rp0xQ_700b.jpg" style="width:100%">
           <div class="ABD">
     <h1 class ="ABD">JoJo Bizzare Adventures: SteelBallRun<h1>
 </div>
@@ -135,3 +143,5 @@
             </div>
           </div>
         </div>
+        <footer class ="footer">                  
+</footer>

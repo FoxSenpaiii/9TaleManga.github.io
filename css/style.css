@@ -103,3 +103,7 @@
     font-weight: bold;
     text-align: center;
 }
+#footer {
+  padding: 50px 20000px;
+  background-color: black;
+}

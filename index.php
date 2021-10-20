@@ -12,9 +12,6 @@
           </style>
     </head>
     <body>
-       <?php
-            include "./main_pages/main.php";
-       ?>
        <div class="topnav">
   <a class="active" href="#home">Главная</a>
   <a href="#comics">Комиксы</a>
@@ -30,8 +27,12 @@
 <div class="album py-5 bg-light">
     <div class="container">
     <div class="ABZ">
-    <h1 class ="ABZ">Сейчас в тренде <h1>
+    <h1 class ="ABZ">Сейчас в тренде<h1>
 </div>
+<div class="line"></div>
+<div class="line2"></div>
+<div class="line2"></div>
+<div class="line2"></div>
 
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">

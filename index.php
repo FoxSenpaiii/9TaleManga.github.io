@@ -6,7 +6,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
         <link rel="stylesheet" href='./css/style.css'/>
         <script></script>
-        <title>Первый сайт</title>
+        <title>WolfComics</title>
         <style>
           
           </style>
@@ -50,13 +50,6 @@
   $link = 'index.php';
   link($target, $link);
   ?>Войти</a>
-</div>
-
-
-
-<div id="header"></div>
-    <p class="descript"></p>
-<img src="https://p4.wallpaperbetter.com/wallpaper/326/492/931/spice-and-wolf-holo-manga-wallpaper-preview.jpg">
 </div>
 
 
@@ -183,5 +176,3 @@
             </div>
           </div>
         </div>
-        <footer class ="footer">                  
-</footer>

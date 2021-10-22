@@ -115,3 +115,26 @@
     border-bottom: 5px solid white;
     background-colour: black:
 }
+
+#header{
+  position:relative;
+  width: 900px;
+  height: 200px;
+  background-color: #25B33f;
+  margin-bottom: 10px;
+  background-image: url(images/i8.png)  
+}
+h1{
+  color: #ffee00;  - цвет заголовка
+  font: 40px Georgia;  - шрифт
+  margin-left: 300px;  - отступ слева
+}
+.descript{
+  width: 300px;  - ширина
+  color: #ffee00;  - цвет
+
+
+
+
+
+
